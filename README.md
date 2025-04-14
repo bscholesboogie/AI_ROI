@@ -1,7 +1,7 @@
 # AI_ROI
 Resources in Python and Streamlit for measuring ROI from AI.
 
-All items in this repository are offered as is, and without any warranty whatsoever, including without limitation warranties of merchantability or fitness for a particular purpose. Download, copying and/or use constitutes acceptance.
+All items in this repository are offered as is, and without any warranty whatsoever, including without limitation warranties of merchantability or fitness for a particular purpose. Download, copying, or use constitutes acceptance.
 
 # Calculate ROI from AI Adoption in Streamlit (tested in macOS Sequoia 15.3.2)
 
