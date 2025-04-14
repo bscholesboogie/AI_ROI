@@ -12,4 +12,4 @@ pip install streamlit
 
 streamlit run [path]python_streamlit_ai_roi_calculator_mc.py
 
-The easiest way to include the path to wherever you saved the file is to use a finder window. Open a finder window, locate the file, click once on the file to highlight, and drag the file icon from the bottom of the finder window to the terminal cursor. Then press Enter.
+The easiest way to include the path to wherever you saved the file is to use a finder window. Open a finder window, locate the file, click once on the file to highlight, and drag the file's icon from the bottom of the finder window to the terminal cursor.
