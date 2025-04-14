@@ -1,5 +1,5 @@
 # AI_ROI
-Resources in Python and HTML for measuring ROI from AI.
+Resources in Python and Streamlit for measuring ROI from AI.
 
 All items in this repository are offered as is, and without any warranty whatsoever including warranties of merchantability or fitness for a particular purpose. Download and/or use signifies acceptance.
 
