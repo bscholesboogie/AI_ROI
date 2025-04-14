@@ -1,3 +1,6 @@
+# Offers a simplified measurement of ROI from AI adoption
+# ROI sensitivity calculation utilizes Monte Carlo simulation
+
 import streamlit as st
 import numpy as np
 import pandas as pd
