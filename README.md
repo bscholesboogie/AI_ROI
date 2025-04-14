@@ -5,6 +5,8 @@ All items in this repository are offered as is, and without any warranty whatsoe
 
 # Calculate ROI from AI Adoption in Streamlit (tested in macOS Sequoia 15.3.2)
 
+The ROI calculation uses Monte Carlo simulation to calculate ROI based on the values assigned to the specified variables. To change a variable's value, simply move the slider.
+
 You can run the AI ROI calculation in Streamlit as follows:
 Open a regular terminal window (not a Python terminal) and type the following:
 
